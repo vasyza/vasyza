@@ -1,5 +1,10 @@
 ### 💻 Технологии:
 
+WTF?????? OMG!!! Все репо приватные
+
+![image](https://github.com/user-attachments/assets/56fbab74-a66a-4c92-afb6-10413f6edbbd)
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="golang" alt="golang" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp
