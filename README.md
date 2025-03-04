@@ -3,6 +3,7 @@
 WTF?????? OMG!!! Все репо приватные
 
 ![image](https://github.com/user-attachments/assets/56fbab74-a66a-4c92-afb6-10413f6edbbd)
+![image](https://github.com/user-attachments/assets/5d59aa11-87c1-40a2-95c2-d0426cec9105)
 
 
 <div>
