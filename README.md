@@ -56,7 +56,7 @@ WTF?????? OMG!!! All repos are private
 
 ![codewars](https://www.codewars.com/users/vasyza/badges/large) -->
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stats:
 
 <table>
   <tr>
