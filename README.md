@@ -1,6 +1,6 @@
-### 💻 Технологии:
+### 💻 Technologies:
 
-WTF?????? OMG!!! Все репо приватные
+WTF?????? OMG!!! All repos are private
 
 ![image](https://github.com/user-attachments/assets/56fbab74-a66a-4c92-afb6-10413f6edbbd)
 ![image](https://github.com/user-attachments/assets/5d59aa11-87c1-40a2-95c2-d0426cec9105)
@@ -25,7 +25,7 @@ WTF?????? OMG!!! Все репо приватные
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/JetBrains/logos/blob/master/web/goland/goland.svg" title="GoLand" alt="GoLand" width="40" height="40"/>&nbsp;
@@ -52,9 +52,9 @@ WTF?????? OMG!!! Все репо приватные
 
 --- -->
 
-### 💻 Codewars:
+<!-- ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/vasyza/badges/large)
+![codewars](https://www.codewars.com/users/vasyza/badges/large) -->
 
 ### ⚙️ GitHub статистика:
 
