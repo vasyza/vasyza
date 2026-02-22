@@ -1,5 +1,5 @@
 ### 💻 Technologies:
-
+<!-- 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="golang" alt="golang" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -27,7 +27,7 @@
   <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 </div>
 
----
+--- -->
 
 <!-- ### 💻 Пройденные курсы:
 
